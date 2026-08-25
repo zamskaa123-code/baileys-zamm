@@ -43,7 +43,7 @@ console.log(chalk.bold.cyan(`
 ╔╝═╚═╣╔═╗║║║║║║║║║║║
 ╚════╩╝─╚╩╝╚╝╚╩╝╚╝╚╝
 ⠀⠀⠀
-¤═―— ⎧  𝐁𝐀𝐈𝐋𝐄𝐘𝐒 ⎭ ⊱―—═¤
+¤═―— ⎧ 𝐙𝐀𝐌 𝐁𝐀𝐈𝐋𝐄𝐘𝐒 ⎭ ⊱―—═¤
 Information:
 Developer: @zamrealll
 Version: 12.1
